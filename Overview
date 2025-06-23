@@ -1,8 +1,8 @@
-#SQL Sales Analysis: Customer & Product Insights
+# SQL Sales Analysis: Customer & Product Insights
 
 This project showcases SQL analysis based on a dataset with three columns — Customers, Products, and Sales. It demonstrates how SQL can be used to extract meaningful insights through time-based, cumulative, proportional, and segmentation analysis.
 
-##📊 Dataset Overview
+## 📊 Dataset Overview
 The dataset contains the following columns:
 - `customer_id`
 - `product_name`
